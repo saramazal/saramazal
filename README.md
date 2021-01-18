@@ -5,9 +5,8 @@ I am leaning Full-Stack Engineer Path in <a href='https://www.codecademy.com/pro
 & I’m currently:  learning JavaScript and React,
                   I am creating projects for <a href='https://www.freecodecamp.org/mazal' target='_blank'> freeCodeCamp</a>,<br>
                   Also I am  helping to teach web development in <a href='https://she-codes.org/'>She codes;</a>.<br>
-                  And working on my Portfolio.  
-                                 
-                  One of my first projects:  https://saramazal.github.io/mazalspace.github.io/
+                  And working on my Portfolio.               
+                  One of my first projects: <a href='https://saramazal.github.io/mazalspace.github.io/'>Art Gallery</a>
                   
                  
 

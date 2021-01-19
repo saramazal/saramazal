@@ -1,10 +1,4 @@
 ### Hi there 👋
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
     <style>
     *{
   box-sizing: border-box;
@@ -99,8 +93,7 @@ h1 {
     <span class='m'>E</span>
   </h1>
 </div>
-  </body>
-</html>
+  
 
 
 My name is Sara Mazal,<br>

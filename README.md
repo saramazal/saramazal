@@ -1,20 +1,12 @@
 ### Hi there 👋
-<div class='body'>
-  <h1 class="loader">
-    <span class='m' />M</span>
-    <span class='m'>A</span>
-    <span class='m'>Z</span>
-    <span class='m'>A</span>
-    <span class='m'>L</span>
-    <span>&nbsp;</span>
-    <span class='m'>S</span>
-    <span class='m'>P</span>
-    <span class='m'>A</span>
-    <span class='m'>C</span>
-    <span class='m'>E</span>
-  </h1>
-</div>
-{
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mazal</title>
+    <style>{
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -89,6 +81,27 @@ h1 {
 .m:hover {
   color: #b2e6fa;
 }
+</style>
+  </head>
+  <body>
+    <div class='body'>
+  <h1 class="loader">
+    <span class='m' />M</span>
+    <span class='m'>A</span>
+    <span class='m'>Z</span>
+    <span class='m'>A</span>
+    <span class='m'>L</span>
+    <span>&nbsp;</span>
+    <span class='m'>S</span>
+    <span class='m'>P</span>
+    <span class='m'>A</span>
+    <span class='m'>C</span>
+    <span class='m'>E</span>
+  </h1>
+</div>
+  </body>
+</html>
+
 
 My name is Sara Mazal,<br>
 I am learning Full-Stack Engineer Path in <a href='https://www.codecademy.com/profiles/saramazal'>Codecademy</a>,<br>

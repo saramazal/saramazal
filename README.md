@@ -1,5 +1,19 @@
 ### Hi there 👋
-
+<div class='body'>
+  <h1 class="loader">
+    <span class='m' />M</span>
+    <span class='m'>A</span>
+    <span class='m'>Z</span>
+    <span class='m'>A</span>
+    <span class='m'>L</span>
+    <span>&nbsp;</span>
+    <span class='m'>S</span>
+    <span class='m'>P</span>
+    <span class='m'>A</span>
+    <span class='m'>C</span>
+    <span class='m'>E</span>
+  </h1>
+</div>
 My name is Sara Mazal,<br>
 I am learning Full-Stack Engineer Path in <a href='https://www.codecademy.com/profiles/saramazal'>Codecademy</a>,<br>
 & I’m currently:<br>  learning JavaScript and React,<br>

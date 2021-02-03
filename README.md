@@ -5,7 +5,7 @@ I am learning Full-Stack Engineer Path in <a href='https://www.codecademy.com/pr
                   I am creating projects for my <a href='https://www.freecodecamp.org/mazal' target='_blank'> freeCodeCamp course</a>,<br>
                   Also I am  team member in <a href='https://she-codes.org/'>She codes;</a>.<br>
                   And working on my Portfolio.               
-                  One of my first projects: <a href='https://saramazal.github.io/mazalspace.github.io/'>Art Gallery</a>
+                 
                   
                  
 

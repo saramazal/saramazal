@@ -6,8 +6,7 @@ I am learning Full-Stack Engineer Path at <a href='https://www.codecademy.com/pr
                   Also I am  team member in <a href='https://she-codes.org/' target='_blabk'>She codes;</a>.<br>
                   My  <a href='https://codepen.io/Saramazal' target='_blabk'>Code Pen lessons</a>
                   
-                  <h1 align="center">Hi 👋, I'm saramazal</h1>
-<h3 align="center">I am learning Full-Stack Engineer Path at Codecademy&freeCodeCamp</h3>
+               
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 

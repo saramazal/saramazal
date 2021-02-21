@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my projects at Codecademy](https://www.codecademy.com/profiles/saramazal)
 
-- 🌱 I’m currently learning [JavaScript & React at freeCodeCamp](https://www.freecodecamp.org/mazal)
+- 🌱 & learning [JavaScript & React at freeCodeCamp](https://www.freecodecamp.org/mazal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
-- 🔭 I’m currently learning JavaScript & React at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy</a>
+- 🔭 I’m currently learning JavaScript & React at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>
 
-- also I am learning Front End Development Libraries & JavaScript Algorithms and Data Structures at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp</a>
-- I am team member at <a href='https://she-codes.org/'> SheCodes;</a>
+- Also I am learning Front End Development Libraries & JavaScript Algorithms and Data Structures at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp.</a>
+- Besides I am team member at <a href='https://she-codes.org/'> SheCodes;</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,16 +1,11 @@
-### Hi there 👋
-My name is Sara Mazal,<br>
-I am learning Full-Stack Engineer Path at <a href='https://www.codecademy.com/profiles/saramazal' target='_blabk' >Codecademy</a>,<br>
-& I’m currently<br>  learning JavaScript and React,<br>
-                  I am creating projects for my <a href='https://www.freecodecamp.org/mazal' target='_blank'> freeCodeCamp courses</a>,<br>
-                  Also I am  team member in <a href='https://she-codes.org/' target='_blabk'>She codes;</a>.<br>
-                  My  <a href='https://codepen.io/Saramazal' target='_blabk'>Code Pen lessons</a>
-                  
-               
+<h1 align="center">Hi 👋, I'm saramazal</h1>
+<h3 align="center">I am learning Full-Stack Engineer Path</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🔭 I’m currently working on [my projects at Codecademy](https://www.codecademy.com/profiles/saramazal)
+
+- 🌱 I’m currently learning [JavaScript & React at freeCodeCamp](https://www.freecodecamp.org/mazal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +29,6 @@ I am learning Full-Stack Engineer Path at <a href='https://www.codecademy.com/pr
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saramazal&" alt="saramazal" /></p>
 
 
-                               
                  
                   
                  

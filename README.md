@@ -12,8 +12,7 @@
 <a href="https://codepen.io/saramazal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="saramazal" height="30" width="40" /></a>
 <a href="https://twitter.com/mazalspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mazalspace" height="30" width="40" /></a>
 <a href="https://fb.com/mazal art cg studio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mazal art cg studio" height="30" width="40" /></a>
-<a href="https://instagram.com/_mazalsara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mazalsara" height="30" width="40" /></a>
-<a href="https://www.behance.net/sara mazal design studio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="sara mazal design studio" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

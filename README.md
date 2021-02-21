@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/saramazal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="saramazal" height="30" width="40" /></a>
+<a href="https://codepen.io/saramazal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="saramazal" height="30" width="40" color: 'blue'/></a>
 <a href="https://twitter.com/mazalspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mazalspace" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mazal.morozov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mazal" height="30" width="40" /></a>
 </p>

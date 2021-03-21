@@ -1,8 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm saramazal</h1>
 <h3 align="center">I am Full-Stack Engineer in progress :star_struck:</h3>
-  <script src="path/to/particles.min.js"></script>
-
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
 - :octocat: I’m currently learning Full-Stack Engineer Career Path at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>

@@ -1,4 +1,4 @@
- 
+ (/skyline20202.png)
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am a Full-Stack Engineer <i>in progress</i> :star_struck:</h3>
   

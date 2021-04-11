@@ -1,4 +1,5 @@
  ![saramazal Banner](/skyline20202.png)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am a Full-Stack Engineer <i>in progress</i> :star_struck:</h3>
   
@@ -16,7 +17,7 @@
 <a href="https://twitter.com/mazalspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mazalspace" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mazal.morozov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mazal" height="30" width="40" /></a>
 </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
+
 <h3 align="left">Languages and Tools :old_key::</h3>
 
 <p align="left"> 

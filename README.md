@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- [![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
+
 <a href="https://codepen.io/saramazal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="saramazal" height="30" width="40" /></a>
 <a href="https://twitter.com/mazalspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mazalspace" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mazal.morozov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mazal" height="30" width="40" /></a>
 </p>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
 <h3 align="left">Languages and Tools :old_key::</h3>
 
 <p align="left"> 

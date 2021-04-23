@@ -1,5 +1,5 @@
  ![saramazal Banner](/skyline20202.png)
- [![Watch the video](https://skyline.github.com/saramazal/2020)](https://youtu.be/vt5fpE0bzSY)
+
   [![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck:</h3>

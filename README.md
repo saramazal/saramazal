@@ -2,7 +2,7 @@
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
-<h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck:</h3>
+<h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck: PERN</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 

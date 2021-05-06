@@ -9,7 +9,7 @@
 - :octocat: I’m currently learning Full-Stack Engineer Career Path at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>
 
 - :books: I am learning Front End Development Libraries & JavaScript Algorithms at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp.</a>
-- :dna: And also I am writing a project for my course React from<a href='https://she-codes.org/'> SheCodes;</a> where I'am  team's member.
+- :dna: And also I am writing a project for my course React from<a href='https://she-codes.org/'> SheCodes;</a> where I'm  team's member.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

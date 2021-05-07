@@ -12,8 +12,7 @@
 - :dna: And also I am writing a project for my course React from<a href='https://she-codes.org/'> SheCodes;</a>.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-* [Discort](https://discord.gg/pmcBvrYt)
+<p align="left"><a href="https://discord.gg/pmcBvrYt">Discort</a>
 </p>
 
 <h3 align="left">Languages and Tools :old_key::</h3>

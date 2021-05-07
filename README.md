@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-## [Discort](https://discord.gg/pmcBvrYt)
+* [Discort](https://discord.gg/pmcBvrYt)
 </p>
 
 <h3 align="left">Languages and Tools :old_key::</h3>

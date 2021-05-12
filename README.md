@@ -1,7 +1,7 @@
  ![saramazal Banner](/skyline20202.png)
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
-  [![Hackerrank](https://www.hackerrank.com/Mazalsara) ![Codewars](https://www.codewars.com/users/saramazal/badges/large)
+ 
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck: PERN</h3>
   
@@ -30,6 +30,8 @@
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
    </p>
+   
+    ![Hackerrank](https://www.hackerrank.com/Mazalsara) ![Codewars](https://www.codewars.com/users/saramazal/badges/large)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramazal&theme=tokyonight&show_icons=true)

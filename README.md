@@ -1,5 +1,5 @@
  ![saramazal Banner](/skyline20202.png)
- ![Codewars](https://www.codewars.com/users/saramazal/badges/medium)
+ ![Codewars](https://www.codewars.com/users/saramazal/badges/micro)
  
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck: PERN</h3>
@@ -11,7 +11,7 @@
 - :books: I am learning Front End Development Libraries & JavaScript Algorithms at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp.</a>
 - :dna: And also I am writing a project for my course React.
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>
-- https://www.codewars.com/users/saramazal/badges/micro</p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discord.gg/pmcBvrYt">Discort</a>

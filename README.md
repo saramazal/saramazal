@@ -15,6 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discord.gg/pmcBvrYt">Discort</a>
 </p>
+![Hackerrank](https://www.hackerrank.com/Mazalsara)  
+![Codewars](https://www.codewars.com/users/saramazal/badges/large)
 
 <h3 align="left">Languages and Tools :old_key::</h3>
 
@@ -32,7 +34,7 @@
    
    </p>
    
-![Hackerrank](https://www.hackerrank.com/Mazalsara)  ![Codewars](https://www.codewars.com/users/saramazal/badges/large)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramazal&theme=tokyonight&show_icons=true)
 
 

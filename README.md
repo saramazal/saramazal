@@ -15,8 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discord.gg/pmcBvrYt">Discort</a>
 </p>
+<p>
 ![Hackerrank](https://www.hackerrank.com/Mazalsara)  
 ![Codewars](https://www.codewars.com/users/saramazal/badges/large)
+</p>
 
 <h3 align="left">Languages and Tools :old_key::</h3>
 

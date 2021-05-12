@@ -1,5 +1,5 @@
  ![saramazal Banner](/skyline20202.png)
- ![Codewars](https://www.codewars.com/users/saramazal/badges/SMALL)
+ ![Codewars](https://www.codewars.com/users/saramazal/badges/small)
  
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck: PERN</h3>

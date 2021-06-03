@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://discord.gg/pmcBvrYt">Discort</a>
+<p align="left"><a href="https://discord.gg/pee3QSBW">Discort</a>
 </p>
 
 

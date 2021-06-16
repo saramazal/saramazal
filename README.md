@@ -1,5 +1,5 @@
  ![saramazal Banner](/skyline20202.png)
- ![Codewars](https://www.codewars.com/users/saramazal/badges/micro)
+ 
  
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">I am studying a Full-Stack Engineer Path  :star_struck: PERN</h3>
@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://discord.gg/pee3QSBW">Discort</a>
+<p align="left"><a href="https://discord.gg/FU3YT79y">Discort</a>
 </p>
 
 
@@ -22,7 +22,7 @@
    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramazal&theme=tokyonight&show_icons=true)
- [![Netlify Status](https://api.netlify.com/api/v1/badges/ffbe8c2e-6033-47fb-acce-a33c4f5e0c3b/deploy-status)](https://app.netlify.com/sites/sara-mazal-portfolio/deploys)
+
 
 
                  

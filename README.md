@@ -1,7 +1,7 @@
  ![saramazal Banner](/skyline20202.png)
  
  
-<h1 align="center">Hi 👋, I'm Sara Mazal</h1>
+<h1 align="center">Hi 👋!</h1>
 <h3 align="center">Hi my name is Sara Mazal and I am a Digital Creator. </h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>

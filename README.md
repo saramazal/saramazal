@@ -14,7 +14,7 @@
 
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>
 </p>
-<h2>Looking for Junior Web Developer position. (HTML, CSS, JS, React, Node/Express)</h2>
+<h4>Looking for Junior Web Developer position. (HTML, CSS, JS, React, Node/Express)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discord.gg/FU3YT79y">Discort</a>

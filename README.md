@@ -8,7 +8,6 @@
 - :octocat: I’m currently learning Full-Stack Engineer Career Path at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>
 
 - :books: I am learning Front End Development Libraries & JavaScript Algorithms at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp.</a>
-- :octocat: I’m currently learning Full-Stack Engineer Career Path at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>
 - :dna: And I am a Web Track Coordinator in the Women Developers Community <a href="https://she-codes.org/" target='_blank' >She codes;</a>.
 - I am also interested in cybersecurity and have completed several CISCO and Codecademy courses on this topic.
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>

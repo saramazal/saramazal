@@ -3,6 +3,7 @@
  
 <h1 align="center">Hey 👋 my name is Sara Mazal & I am a Digital Creator. </h1>
 <h2 align="center">I love to create a cool and original things for the web. </h2>
+<h4 align="center">Looking for Junior Web Developer position. (HTML, CSS, JS, React, Node/Express)</h4>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
@@ -14,7 +15,7 @@
 
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>
 </p>
-<h4>Looking for Junior Web Developer position. (HTML, CSS, JS, React, Node/Express)</h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discord.gg/FU3YT79y">Discort</a>

@@ -2,6 +2,7 @@
  
  
 <h1 align="center">Hey 👋 my name is Sara Mazal & I am a Digital Creator. </h1>
+<h2 align="center">I love to create a cool and original things for the web. </h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 

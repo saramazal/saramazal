@@ -14,6 +14,7 @@
 - I am also interested in cybersecurity and have completed several CISCO and Codecademy courses on this topic.
 
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>
+- My <a href="https://codepen.io/Saramazal" target="_blank">Code Pen</a>
 - Connect with me: <a href="https://discord.gg/FU3YT79y">Discort</a>
 </p>
 

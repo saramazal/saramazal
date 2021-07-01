@@ -1,7 +1,7 @@
  ![saramazal Banner](/skyline20202.png)
  
  
-<h1 align="center">Hey 👋 my name is Sara Mazal & I am a Digital Creator. </h1>
+<h1 align="center">Hey 👋 my name is Sara Mazal & I am a Digital Creator & Web Developer. </h1>
 <h2 align="center">I love to create a cool and original things for the web. </h2>
 <h4 align="center">Looking for Junior Web Developer position. (HTML, CSS, JS, React, Node/Express)</h4>
   

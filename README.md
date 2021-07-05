@@ -16,7 +16,7 @@
 
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>
 - My <a href="https://codepen.io/Saramazal" target="_blank">Code Pen</a>
-- Connect with me: <a href="https://discord.gg/FU3YT79y">Discort</a>
+- Connect with me: <a href="https://discord.gg/ZEUtVAga">Discort</a>
 </p>
 
    

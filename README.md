@@ -4,8 +4,6 @@
 <h1 align="center">Hey 👋 my name is Sara Mazal</h1> 
 <h2 align="center">I am a Web Developer.</h2>
 <h3 align="center">I love to create a cool and original things for the web. </h3>
-<h4 align="center">Looking for Junior Web Developer position. (HTML, CSS, JS, React, Node/Express)</h4>
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
 - :octocat: I’m currently learning Full-Stack Engineer Career Path at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>

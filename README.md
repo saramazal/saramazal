@@ -2,7 +2,7 @@
  
  
 <h1 align="center">Hey 👋 my name is Sara Mazal</h1> 
-<h2 align="center">I am a Web Developer (PERN Stack).</h2>
+<h2 align="center">I am a Full Stack Developer (PERN Stack)</h2>
 <h3 align="center">I am looking for a Junior Web Developer position</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 

@@ -8,7 +8,7 @@
 
 - :octocat: I’m currently learning Full-Stack Engineer Career Path at  <a href='https://www.codecademy.com/profiles/saramazal' target='_blank'>Codecademy.</a>
 
-- :books: I am learning Front End Development Libraries & JavaScript Algorithms at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp.</a>
+- :books: I am learning APIs & Microservices at  <a href='https://www.freecodecamp.org/mazal' target='_blank'>freeCodeCamp.</a>
 - :dna: And I am a Web Track Coordinator at <a href="https://she-codes.org/" target='_blank' >She codes;</a>, the Women Developers Community in Israel.
 - I am also interested in cybersecurity and have completed several <a href="https://www.credly.com/badges/11ef07c6-eb87-4356-923a-1cf450924ff3" target="_blank">CISCO</a> and <a href="https://www.codecademy.com/profiles/saramazal/certificates/de0bd5c89521d004ce449a86b0ad3319" target="_blank">Codecademy</a> courses on this topic.
 - My <a href='https://www.hackerrank.com/Mazalsara'>Hackerrank</a>

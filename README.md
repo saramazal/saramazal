@@ -3,6 +3,7 @@
  
 <h1 align="center">Hey 👋 my name is Sara Mazal</h1> 
 <h2 align="center">I am a Full Stack Developer</h2>
+<h6 align="center">with experience in Graphic Design</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 

@@ -1,4 +1,4 @@
- ![saramazal Banner](/skyline20202.png)
+ ![saramazal Banner](/skyline2021.png)
  
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
 <h3 align="center">- a Full Stack Developer</h3>

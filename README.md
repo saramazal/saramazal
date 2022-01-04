@@ -1,7 +1,9 @@
+ 
+ [:compass:](https://skyline.github.com/saramazal/2021)
  ![saramazal Banner](/skyline2021.png)
  
 <h1 align="center">Hi 👋, I'm Sara Mazal</h1>
-<h3 align="center">- :robot: a Full Stack Developer</h3>
+<h3 align="center">- a Full Stack Developer :person_fencing:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 

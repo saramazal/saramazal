@@ -18,12 +18,6 @@
  <p>
  :headphones: <a href="https://mazal-music.netlify.app/">Mazal Music</a>
 </p>
-<p>
- :page_with_curl: <a href="https://saramazal.github.io/mazal-messages/">Random Messages Generator</a></p>
- <p>:mage_man:
- <a href="https://my-url-shortener.netlify.app/">URL Shortener</a>
-</p>
-
 
 <h2></h2>
 <p align="center">

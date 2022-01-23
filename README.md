@@ -18,6 +18,7 @@
  <p>
  :headphones: <a href="https://mazal-music.netlify.app/">Mazal Music</a>
 </p>
+<p>:scissors: <a href="https://my-url-shortener.netlify.app/" target="blank" rel="noopener noreferrer">URL-shortener</a></p>
 
 <h2></h2>
 <p align="center">

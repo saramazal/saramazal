@@ -7,18 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
-- :octocat: I’m working on my **New Portfolio Projects**
+- :octocat: I’m working on my **Learning Platfiorm Project**
 
 - :space_invader: I’m currently learning **MERN stack**
 
-- :purple_heart: All of my new projects are available at :pinched_fingers:[coming soon](https://codepen.io/Saramazal/full/VwbdpJG)
-- :eye_speech_bubble: my latest works:
-<p>
- :notebook_with_decorative_cover: <a href="https://mazal-meetings.herokuapp.com/contacts">Meeting Planner</a></p>
- <p>
- :headphones: <a href="https://mazal-music.netlify.app/">Mazal Music</a>
-</p>
-<p>:scissors: <a href="https://my-url-shortener.netlify.app/" target="blank" rel="noopener noreferrer">URL-shortener</a></p>
+- :purple_heart: 
+ my <a href="delete my project">latest works</a>
+
 
 <h2></h2>
 <p align="center">

@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
 
-- :octocat: I’m working on my **Learning Platfiorm Project**
+ :octocat:  I’m working on my **Learning Platfiorm Project**
 
-- :space_invader: I’m currently learning **MERN stack**
+ :space_invader:  I’m currently learning **MERN stack**
 
-- :purple_heart: [my latest works](https://saramazal-io.vercel.app/)
+ :purple_heart: [my latest works](https://saramazal-io.vercel.app/)
 
 
 <h2></h2>
-<p align="center">
+<p align="left">
 <a href="https://codepen.io/saramazal" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saramazal" height="30" width="40" /></a>&nbsp;  <a href="https://discord.gg/QDRaGqx5Uv" target="blank" rel="noopener noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FwEt9bbrd4e%3Ffbclid%3DIwAR1tWSHxNRFb3m2IjvwQmD53dh4-973pC8TrFnEuH-YIIRc658adVoThTaI&h=AT0P4XedN-_c1LUE1M5IlWvHei-HZpNsf04o_6MITINQIqk1GwWzbCDqwdQZ7GTO66dTiUiuh63oyLuMR4sYN1CFqOFytiB_NEJROUYApdGbzpoLkG-G_bjSCUe8sz7ZXofs4PbcaLyUm25QQG-spg" height="30" width="40" /></a> &nbsp;  <a href="https://www.hackerrank.com/mazalsara" target="blank" rel="noopener noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mazalsara" height="30" width="40" /></a>
 </p>
 

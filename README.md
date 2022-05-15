@@ -11,7 +11,7 @@
 
  :space_invader:  I’m currently learning **MERN stack**
 
- :purple_heart: [my latest works](https://saramazal-io.vercel.app/)
+ :purple_heart: [my latest works coming soon](https://codepen.io/Saramazal/pen/VwbdpJG)
 
 
 <h2></h2>

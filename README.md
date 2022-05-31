@@ -39,6 +39,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp; 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> &nbsp; 
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  </p>
+
  
  
 :supervillain_woman:&nbsp;[Portfolio](https://saramazal-io.vercel.app/)
@@ -48,6 +49,9 @@
    <div align="center"> 
 
 ![Anurag's GitHub stats Banner](https://github-readme-stats.vercel.app/api?username=saramazal&theme=tokyonight&show_icons=true)
+
+
+<a href="http://www.github.com/saramazal"><img src="https://activity-graph.herokuapp.com/graph?username=saramazal&bg_color=0f172a&color=ffffff&line=6366f1&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
  </div>
 

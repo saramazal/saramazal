@@ -51,7 +51,7 @@
 ![Anurag's GitHub stats Banner](https://github-readme-stats.vercel.app/api?username=saramazal&theme=tokyonight&show_icons=true)
 
 
-<a href="http://www.github.com/saramazal"><img src="https://activity-graph.herokuapp.com/graph?username=saramazal&bg_color=0f172a&color=ffffff&line=6366f1&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
  
  </div>
 

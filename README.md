@@ -42,7 +42,7 @@
 
  
  
-:supervillain_woman:&nbsp;[Portfolio](https://saramazal-io.vercel.app/)
+:supervillain_woman:&nbsp;[Portfolio](https://saramazal.vercel.app/)
 
 
 

@@ -6,7 +6,7 @@
 <h3 align="center">- a Full Stack Developer & Ethical Hacking Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saramazal&label=Profile%20views&color=0e75b6&style=flat" alt="saramazal" /> </p>
- <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Mazal.png" alt="TryHackMe">>>></a></p>
+ <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Mazal.png" alt="TryHackMe"></p>
 
 :space_invader:&nbsp;  I’m currently learning:<p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

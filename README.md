@@ -1,7 +1,7 @@
   ![saramazal Banner](/skyline2021.png)
  [Sara Mazal App](https://saramazal-pwa.glitch.me/)&nbsp; 
  :octocat: &nbsp; 
- [@saramazal's 2021 GitHub Skyline](https://skyline.github.com/saramazal/2021)
+
  
 <h2 align="center">- a Full Stack Developer & Ethical Hacking Student</h2>
 

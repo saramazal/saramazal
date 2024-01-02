@@ -1,6 +1,6 @@
   ![saramazal Banner](/skyline2021.png)
  [Sara Mazal App](https://saramazal-pwa.glitch.me/)&nbsp; 
- :octocat: &nbsp; [maz4l skyline](https://skyline.github.com/saramazal/2022)
+ :octocat: &nbsp; [maz4l-cybrary](https://app.cybrary.it/profile/maz4l)
 
  
 <h2 align="center">- a Full Stack Developer & Ethical Hacking Student</h2>

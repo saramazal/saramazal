@@ -1,5 +1,5 @@
   ![saramazal Banner](/skyline2021.png)
- [Sara Mazal App](https://saramazal-pwa.glitch.me/)&nbsp; :octocat:  &nbsp; [maz4l-cybrary](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy%2FHTB-Academy-Student-Transcript.pdf)
+ [Sara Mazal App](https://saramazal-pwa.glitch.me/)&nbsp; :octocat:  &nbsp; [My HTB Academy](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy%2FHTB-Academy-Student-Transcript.pdf)
 
  
 <h2 align="center">- a Full Stack Developer & Ethical Hacking Student</h2>

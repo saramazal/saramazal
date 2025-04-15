@@ -1,4 +1,4 @@
- ![saramazal Banner](/cover.jpg)
+ ![saramazal Banner](/mazal-hacks-coverjpg.jpg)
  <p align="center">
   <a href="https://saramazal-pwa.glitch.me/">Sara Mazal App</a>
 </p> 
